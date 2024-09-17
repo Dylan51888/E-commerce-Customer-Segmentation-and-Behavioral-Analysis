@@ -1,7 +1,3 @@
-# E-commerce-Customer-Segmentation-and-Behavioral-Analysis
-Here is a suggested README based on your provided information:
-
----
 
 # E-commerce Customer Segmentation and Behavioral Analysis
 
@@ -57,6 +53,3 @@ This project includes customer behavior segmentation and the analysis of differe
 4. Connect MySQL to Tableau or export the tables as CSV files for visualization.
 5. Explore the Tableau dashboard linked above for insights into user behavior.
 
----
-
-Feel free to customize this README further according to your preferences.
